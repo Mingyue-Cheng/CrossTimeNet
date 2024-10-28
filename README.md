@@ -1,7 +1,7 @@
 <div align="center">
   <!-- <h1><b> Time-LLM </b></h1> -->
   <!-- <h2><b> Time-LLM </b></h2> -->
-  <h2><b>  CrossTimeNet: Learning Transferable Time Series Classifier with Cross-Domain Pre-training from Language Model </b></h2>
+  <h2><b>  CrossTimeNet: Cross-Domain Pre-training with Language Models for Transferable Time Series Representations </b></h2>
 </div>
 
 ---
